@@ -3,12 +3,12 @@
 
 ## [1. Streamlit 웹 서비스](https://kingbeem-storesales-streamlit-by-kaggle-main-app-3fqmf1.streamlit.app/ "Streamlit Link")<br/>
 
-## [2. 개인 ipynb 파일](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/pdf/storesales.ipynb/ ".ipynb Link")<br/>
+## [2. 개인 ipynb 파일](https://github.com/kh7230/Storesales_kaggle/blob/main/pdf/storesales.ipynb/ ".ipynb Link")<br/>
 
-## [3. PDF 파일](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/pdf/StoreSales_Attention.pdf/ "PDF Link")<br/>
+## [3. PDF 파일](https://github.com/kh7230/Storesales_kaggle/blob/main/pdf/StoreSales_Attention.pdf/ "PDF Link")<br/>
 
 ---
-![image](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/img/main-store.png)
+![image](https://github.com/kh7230/Storesales_kaggle/blob/main/img/main-store.png)
 
 ## ✔ 목적
 Kaggle Store Sales 대회에서 시계열 데이터를 사용하여 Corporación Favorita라는 대규모 에콰도르 **식료품 소매업체 매출 예측** 및 Streamlit 활용 **웹 서비스 구현**<br/>
@@ -21,7 +21,7 @@ Store Sales 대회에서 제공하는 데이터를 사용하였습니다.<br/>
 ### [Store Sales Data](https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data, "Data Link") <br/>
 
 ## ✔ ERD
-![image](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/img/STORESALES_EDR.png)
+![image](https://github.com/kh7230/Storesales_kaggle/blob/main/img/STORESALES_EDR.png)
 <br/>
 
 ## ✔ 팀 구성
@@ -37,7 +37,7 @@ Store Sales 대회에서 제공하는 데이터를 사용하였습니다.<br/>
 - **DATA 페이지**
   - Store Sales 대회에서 제공하는 데이터에 대한 정보와 기술통계량 제공
 
-![image1](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/img/github-data.png)
+![image1](https://github.com/kh7230/Storesales_kaggle/blob/main/img/github-data.png)
 - **Exploratory Data Analysis**
   - 시간 지남에 따른 상점별 매출 시각화
   - 시간 지남에 따른 제품군별 매출 시각화
@@ -51,18 +51,18 @@ Store Sales 대회에서 제공하는 데이터를 사용하였습니다.<br/>
   - 유가와 매출 및 거래량 간 상관분석 및 시각화
   - 유가와 제품군별 매출 간 상관분석 및 시각화
 
-![image2](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/img/github-eda.png)
+![image2](https://github.com/kh7230/Storesales_kaggle/blob/main/img/github-eda.png)
 - **STAT**
   - 상관분석에 대한 설명 및 지연값들 간 상관분석 시각화
   - ACF / PACF에 대한 설명 및 제품군별 ACF / PACF 시각화
   - Features(추세, 계절성, 지연값)에 대한 설명 및 시각화
   - 주/월 단순이동평균선 및 지수이동평균선 시각화
 
-![image3](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/img/stat.png)
+![image3](https://github.com/kh7230/Storesales_kaggle/blob/main/img/stat.png)
 - **ML**
   - RandomForest 모델을 사용한 상점별 매출 및 거래량 예측
 
-![image4](https://github.com/KingBeeM/storesales_streamlit_by_Kaggle/blob/main/img/ML.png)
+![image4](https://github.com/kh7230/Storesales_kaggle/blob/main/img/ML.png)
 ## ✔ 설치 방법
 
 ### Windows
@@ -73,7 +73,7 @@ Store Sales 대회에서 제공하는 데이터를 사용하였습니다.<br/>
 
 - 프로젝트 파일을 다운로드 받습니다.
 ```
-git clone https://github.com/KingBeeM/storesales_streamlit_by_Kaggle.git
+git clone https://github.com/kh7230/Storesales_kaggle.git
 ```
 - 프로젝트 경로에서 가상환경 설치 후 접속합니다. (Windows 10 기준)
 ```
