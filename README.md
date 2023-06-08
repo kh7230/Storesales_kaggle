@@ -1,7 +1,7 @@
 # Kaggle Store Sales - 시계열 예측 (~ 2023.05.17)
 <br/>
 
-## [1. Streamlit 웹 서비스](https://kingbeem-storesales-streamlit-by-kaggle-main-app-3fqmf1.streamlit.app/ "Streamlit Link")<br/>
+## [1. Streamlit 웹 서비스](https://kh7230-storesales-kaggle-main-app-rr55kv.streamlit.app// "Streamlit Link")<br/>
 
 ## [2. 개인 ipynb 파일](https://github.com/kh7230/Storesales_kaggle/blob/main/pdf/storesales.ipynb/ ".ipynb Link")<br/>
 
